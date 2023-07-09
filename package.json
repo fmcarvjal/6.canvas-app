@@ -10,9 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tensorflow/tfjs-core": "4.8.0",
-    "handtrackjs": "^0.1.5",
-    "handwriting": "^0.0.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
     "react-canvas-draw": "^1.2.1",
